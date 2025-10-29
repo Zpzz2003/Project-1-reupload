@@ -1,0 +1,16 @@
+﻿Project: Project 1
+Creator: Isaiah Williams
+Date: 10/12/2025
+
+Description: 
+This project is meant to replicate a buyer looking to shop for cars
+
+Known Bugs:
+No bugs have been found so far
+
+
+
+
+Testing notes:
+Succesfully made each form
+Buttons operates perfectly transferring from one form to the next
